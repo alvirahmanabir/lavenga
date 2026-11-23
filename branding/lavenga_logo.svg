@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#B4552F"/>
+  <!-- studio doorway arch -->
+  <path d="M292 780 V472 a220 220 0 0 1 440 0 V780" fill="none" stroke="#FAF7F2" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- L monogram: the lit space inside the doorway -->
+  <path d="M452 400 V690 H600" fill="none" stroke="#FAF7F2" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
